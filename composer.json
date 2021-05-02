@@ -1,0 +1,15 @@
+{
+    "name": "carlos/db1",
+    "description": "",
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        },
+        "psr-4": {
+            "DB1\\": "src/"
+        }
+    }
+}
