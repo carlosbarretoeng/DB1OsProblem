@@ -1,7 +1,7 @@
 # DB1Os
 
 This repository is destined to show a personal proposal to solve the "DB1 Operational System Problem" for 
-application to the "PHP Plêno Developer" position. The document with enunciates for development is [here]()
+application to the "PHP Plêno Developer" position. The document with enunciates for development is [here](https://github.com/carlosbarretoeng/DB1OsProblem/blob/main/questions.pdf)
 
 ## 1. SQL Question.
 
